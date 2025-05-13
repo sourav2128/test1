@@ -14,7 +14,7 @@ public class Main {
         Matcher matcher = pattern.matcher(input);
 
         if (matcher.matches()){
-            System.out.println("valid");
+            System.out.println("VAlid");
         }
         else {
             System.out.println("invalid");
