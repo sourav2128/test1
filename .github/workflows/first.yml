@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: Get code
         uses: actions/checkout@v6
-      - name: Install Nodejs
+      # - name: Install Nodejs
       - uses: actions/checkout@v6
       - uses: actions/setup-node@v6
         with:
